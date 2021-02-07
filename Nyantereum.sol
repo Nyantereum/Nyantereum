@@ -9,9 +9,8 @@ pragma solidity ^0.4.24;
 // Total supply: 1000000000000
 // Decimals    : 8
 //
-// Enjoy.
+// Enjoy NYANTEREUM.
 //
-// (c) by Moritz Neto with BokkyPooBah / Bok Consulting Pty Ltd Au 2017. The MIT Licence.
 // ----------------------------------------------------------------------------
 
 
